@@ -1,0 +1,7 @@
+http://graphchallenge.mit.edu/challenges
+
+http://graphchallenge.mit.edu/data-sets#PartitionDatasets
+
+https://graphchallenge.mit.edu/running-sample-code-amazon-ec2
+
+
